@@ -1,1 +1,1 @@
-https://github.com/Professor-X7/ono-tebe-nado-fd-1
+https://github.com/Professor-X7/ono-tebe-nado-fd
