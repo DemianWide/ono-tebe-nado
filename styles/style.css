@@ -2,16 +2,17 @@
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
+  justify-content: center;
   gap: 36px;
-  padding: 95px 50px 96px 50px;
+  max-height: 293px;
+  height: 100%;
+  padding: 92px 50px 96px 50px;
   font-size: 18px;
 }
 
 .navigation-list {
   display: flex;
-  justify-content: space-between;
-  width: 100%;
-  max-width: 391px;
+  gap: 31.5px;
 }
 
 .navigation-item {
@@ -24,6 +25,7 @@
 }
 
 .header-logo-img {
+  display: block;
   width: 148px;
   height: 105px;
 }
@@ -79,6 +81,7 @@
   font-size: 100px;
   line-height: 115px;
   letter-spacing: 30px;
+  font-weight: 700;
   text-transform: uppercase;
 }
 
