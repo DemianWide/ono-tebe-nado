@@ -1,15 +1,11 @@
 .header {
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
-  align-items: center;  
+  align-items: center;
   gap: 36px;
   padding: 92px 50px 96px 50px;
   font-size: 18px;
 }
-
-/* .header-address {
-  min-width: 236px;
-} */
 
 .navigation-list {
   display: flex;
@@ -19,7 +15,7 @@
 }
 
 .navigation-item {
-  list-style:circle;
+  list-style: circle;
 }
 
 .is-active {
@@ -73,12 +69,11 @@
   background-color: rgba(0, 0, 0, 0.6);
 }
 
-
 .cover-title {
   z-index: 0;
   display: flex;
   flex-direction: column;
-  align-items:normal;
+  align-items: normal;
   row-gap: 20px;
   color: #fff;
   font-size: 100px;
@@ -123,7 +118,7 @@
   align-items: center;
   border: 1px solid;
   padding: 10px 32px 10px 31px;
-  background-color:transparent;
+  background-color: transparent;
   white-space: nowrap;
 }
 
@@ -182,7 +177,7 @@
 
 .lots-card-article-img {
   position: absolute;
-  top: 0; 
+  top: 0;
   left: 0;
   z-index: -1;
   width: 100%;
@@ -195,7 +190,7 @@
 
 .about {
   display: grid;
-  grid-template-columns: 1fr 2fr; 
+  grid-template-columns: 1fr 2fr;
   gap: 72px;
   padding: 0px 24px 0px 71px;
 }
@@ -243,7 +238,7 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  padding: 180px 50px 82px 50px ;
+  padding: 180px 50px 82px 50px;
   font-size: 18px;
 }
 
