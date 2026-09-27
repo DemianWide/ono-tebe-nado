@@ -30,7 +30,6 @@
 
 .contacts-block {
   justify-self: end;
-  width: 100%;
   max-width: 240px;
   line-height: 24.3px;
 }
@@ -240,10 +239,6 @@
   justify-content: space-between;
   padding: 180px 50px 82px 50px;
   font-size: 18px;
-}
-
-.footer-address {
-  min-width: 260px;
 }
 
 .footer-nav-list {
