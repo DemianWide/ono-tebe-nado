@@ -98,7 +98,7 @@
   letter-spacing: 30px;
 }
 
-.description{
+.description {
   z-index: 1;
   display: flex;
   align-items: center;
@@ -182,7 +182,7 @@
 
 .lots-card-article-img {
   position: absolute;
-  top:0; 
+  top: 0; 
   left: 0;
   z-index: -1;
   width: 100%;
@@ -262,7 +262,7 @@
   column-gap: 48px;
 }
 
-.footer-socials-icon  {
+.footer-socials-icon {
   width: 48px;
   height: 48px;
 }
