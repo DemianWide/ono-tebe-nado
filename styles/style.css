@@ -46,7 +46,7 @@
   flex-direction: column;
   row-gap: 108px;
   padding: 165px 50px 50px 50px;
-  background-image: url(/images/cover.jpg);
+  background-image: url(../images/cover.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -165,15 +165,15 @@
 }
 
 .background-lots-card-01 {
-  background-image: url(/images/card-lot-01.jpg);
+  background-image: url(../images/card-lot-01.jpg);
 }
 
 .background-lots-card-02 {
-  background-image: url(/images/card-lot-02.jpg);
+  background-image: url(../images/card-lot-02.jpg);
 }
 
 .background-lots-card-03 {
-  background-image: url(/images/card-lot-03.jpg);
+  background-image: url(../images/card-lot-03.jpg);
 }
 
 .lots-button-link {
